@@ -1,0 +1,10 @@
+
+	document.myform.ccompname.value= "";
+		document.myform.ccontper.value= "";		
+	document.myform.consphone.value= "";
+		document.myform.cflat.value= "";		
+	document.myform.cstreet.value= "";
+		document.myform.carea.value= "";		
+	document.myform.ccity.value= "";
+		document.myform.czip.value= "";
+			document.myform.ccountry.value= "";
